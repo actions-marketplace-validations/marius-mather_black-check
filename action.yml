@@ -1,5 +1,5 @@
 # action.yml
-name: 'Black Check'
+name: 'Black Check for Jupyter notebooks'
 description: 'GitHub action to run black on your python repository'
 branding:
   icon: 'check-square'
