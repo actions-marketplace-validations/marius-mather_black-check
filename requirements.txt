@@ -1,1 +1,1 @@
-black==21.12b0
+black[jupyter]==21.12b0
